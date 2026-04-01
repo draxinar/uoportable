@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Origin Worlds Online\Ultima Online\1.0]
+"ExePath"="C:\\Program Files\\Ultima Online\\client.exe"
+"InstCDPath"="C:\\Program Files\\Ultima Online\\"
